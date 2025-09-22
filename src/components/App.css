@@ -351,6 +351,7 @@ html, body {
 .gutter {
   background-color: var(--main-bg-color);
   flex: 0 0 auto;
+  z-index: 1;
 }
 .gutter.gutter-horizontal,
 .gutter.gutter-horizontal:hover {
